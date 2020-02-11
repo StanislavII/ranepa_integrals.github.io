@@ -1,2 +1,2 @@
-# ranepa_integrals.github.io
-For the first graders 
+# Интегралы 
+Для первого курса Ранхигс ( и не только)
