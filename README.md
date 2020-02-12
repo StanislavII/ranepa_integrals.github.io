@@ -1,6 +1,6 @@
 # Интегралы 
 Для первого курса Ранхигс (и не только)
-![Just photo](image.png)
+![Just photo](гарольд.jpg)
 [Table](work_space.html)
 
 [Lesson First](Into_Dif.html)
