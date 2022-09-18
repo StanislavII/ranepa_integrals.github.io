@@ -1,7 +1,7 @@
 # Интегралы 
 Для первого курса Ранхигс (и не только)
 
-https://stanislavii.github.io/ranepa_integrals.github.io/
+[Click](https://stanislavii.github.io/ranepa_integrals.github.io/)
 
 ![Just photo](гарольд.jpg)
 [Table](work_space.html)
